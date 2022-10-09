@@ -6,4 +6,6 @@
     <string name="countView">123K</string>
     <string name="countLikes">125K</string>
     <string name="countShares">12K</string>
+    <string name="description_post_like">Like</string>
+    <string name="description_post_share">Share</string>
 </resources>
